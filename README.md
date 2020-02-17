@@ -15,11 +15,11 @@ Camera network is as follows:
 <div style="text-align:center"><img src="Images\HPWREN_t.jpg" /></div>
 <br/>
 <br/>
-<div style="text-align:center"><img src="images/Sample_Images.png" /></div>
+<div style="text-align:center"><img src="Images\Sample_Images.png" /></div>
 <br/>
 <br/>
 Number of training and validation images are as follows:
-<div style="text-align:center"><img src="images/fig_distribution.png" /></div>
+<div style="text-align:center"><img src="Images\fig_distribution.png" /></div>
 <br/>
 <br/>
 
@@ -32,10 +32,10 @@ The role of the CNN is  to reduce the images into a form which is easier to proc
 
 
 CovNets use filters (or a documented set of features) that classify details about the image. The first layer captures high-level features (such as edges, gradient, and color). The filter (or kernal) will slide across the image and document a convolved feature. The filter repeats this process until it has scanned across the entire image. Matrix multiplication calculates the bias weights to provide a robust Convoluted Feature Output. The main components of CNNs are summarized below:
-<div style="text-align:center"><img src="images/CNN_SUMMARY_1.png" /></div>
+<div style="text-align:center"><img src="Images\CNN_SUMMARY_1.png" /></div>
 <br/>
 <br/>
-<div style="text-align:center"><img src="images/CNN_SUMMARY_2.png" /></div>
+<div style="text-align:center"><img src="Images\CNN_SUMMARY_2.png" /></div>
 
 
 
@@ -49,7 +49,7 @@ We used three fully connected layers as follows:
 Custom Model structure, parameters and results are as follows:
 <br/>
 <br/>
-<div style="text-align:center"><img src="images/fig_base_model_summary.png" /></div>
+<div style="text-align:center"><img src="Images\fig_base_model_summary.png" /></div>
 <br/>
 
 
@@ -58,35 +58,35 @@ We then used transfer learning to apply a pre-trained model to our dataset. Data
 <br/>
 <br/>
 
-<div style="text-align:center"><img src="images/VGG19.png" /></div>
+<div style="text-align:center"><img src="Images\VGG19.png" /></div>
 <br/>
 <br/>
 
 We froze the FC layers and replaced the prediction head of the model as follows:
 <br/>
 <br/>
-<div style="text-align:center"><img src="images/VGG_19_Diagram_TL.png" /></div>
+<div style="text-align:center"><img src="Images\VGG_19_Diagram_TL.png" /></div>
 
 
 Transfer Learning Model structure, parameters and results are as follows:
 <br/>
 <br/>
-<div style="text-align:center"><img src="images/fig_tl_model_summary.png" /></div>
+<div style="text-align:center"><img src="Images\fig_tl_model_summary.png" /></div>
 
 ### Fine Tuning 
 Lastly we used a process called fine tuning to help further tune the VGG19 model to our dataset. We unfroze  the last 5 layers of VGG19 and the retrained it using a lower learning rate. This method led to higher accuracy than transfer learning via feature extraction.
-images/VGG19.png
-<div style="text-align:center"><img src="images/VGG_19_Diagram_FT.png" /></div>
+images\VGG19.png
+<div style="text-align:center"><img src="Images\VGG_19_Diagram_FT.png" /></div>
 <br/>
 <br/>
 Fine Tuning Model structure, parameters and results are as follows:
-<div style="text-align:center"><img src="images/fig_ft_model_summary.png" /></div>
+<div style="text-align:center"><img src="Images\fig_ft_model_summary.png" /></div>
 <br/>
 <br/>
 ### Tensorboard
 We used Tensorboard to interactively visualize our results. TensorBoard is a tool for providing the measurements and visualizations needed during the machine learning workflow. It enables tracking experiment metrics like loss and accuracy, visualizing the model graph, projecting embeddings to a lower dimensional space, and much more.
 
-<div style="text-align:center"><img src="images/tensorboard.gif" /></div>
+<div style="text-align:center"><img src="Images\tensorboard.gif" /></div>
 <br/>
 <br/>
 
@@ -94,7 +94,7 @@ We used Tensorboard to interactively visualize our results. TensorBoard is a too
 We used Colab for all coding and collaboration. Colab allowed us to use a cloud compute resource (including GPU) for free and sync our notebooks with GitHub. It was a huge time saver.
 <br/>
 <br/>
-<div style="text-align:center"><img src="images/Colab.png" /></div>
+<div style="text-align:center"><img src="Images\Colab.png" /></div>
 
 
 
