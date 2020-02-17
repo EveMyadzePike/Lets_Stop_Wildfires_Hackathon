@@ -12,7 +12,7 @@ Images captured from the High Performance Wireless Research and Education Networ
 Camera network is as follows:
 <br/>
 <br/>
-<div style="text-align:center"><img src="images\HPWREN_t.jpg" /></div>
+<div style="text-align:center"><img src="Images\HPWREN_t.jpg" /></div>
 <br/>
 <br/>
 <div style="text-align:center"><img src="images/Sample_Images.png" /></div>
