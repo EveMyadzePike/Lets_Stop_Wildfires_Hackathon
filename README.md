@@ -83,6 +83,7 @@ Fine Tuning Model structure, parameters and results are as follows:
 <div style="text-align:center"><img src="Images\fig_ft_model_summary.png" /></div>
 <br/>
 <br/>
+
 ### Tensorboard
 We used Tensorboard to interactively visualize our results. TensorBoard is a tool for providing the measurements and visualizations needed during the machine learning workflow. It enables tracking experiment metrics like loss and accuracy, visualizing the model graph, projecting embeddings to a lower dimensional space, and much more.
 
