@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/WIVIV/Project_3_AFI/blob/master/Proj_3_WF_GRID_TL_with_tensorboard.ipynb)
+
+
 # A Fire Inside
 ## Project 3
 ### By: Ash Ranu, Jeneia Mullins, and Zach Steindam
