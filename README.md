@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/WIVIV/Project_3_AFI/blob/master/Proj_3_WF_GRID_TL_with_tensorboard.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WIVIV/Project_3_AFI/blob/master/Proj_3_WF_GRID_TL_with_tensorboard.ipynb)
 
 ## Lets Stop Wildfires Hackathon
 
