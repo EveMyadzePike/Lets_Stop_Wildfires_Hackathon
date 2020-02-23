@@ -2,6 +2,8 @@
 
 ## Lets Stop Wildfires Hackathon
 
+## Challenge IB: Smoke vs No Smoke using Gridded Image
+
 [Custom Model - Google Drive Link](https://drive.google.com/open?id=1-5oMtPhsLzoo0EVfygK1ETHEWpHwh-Nj)
 
 [Fine Tuned VGG19 Model - Google Drive Link](https://drive.google.com/open?id=1-60CTlUaEFdnw_DOG4flJ-hkVaAzirWn)
