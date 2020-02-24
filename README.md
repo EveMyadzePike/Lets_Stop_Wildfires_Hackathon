@@ -4,9 +4,9 @@
 
 ## Challenge IB: Smoke vs No Smoke using Gridded Image
 
-[Custom Model - Google Drive Link](https://drive.google.com/open?id=1-5oMtPhsLzoo0EVfygK1ETHEWpHwh-Nj)
+[Custom Model - Google Drive Link](https://drive.google.com/open?id=1-COjDlKTBAHw7VMqJrt4-D8cdMjo3jyt)
 
-[Fine Tuned VGG19 Model - Google Drive Link](https://drive.google.com/open?id=1-60CTlUaEFdnw_DOG4flJ-hkVaAzirWn)
+[Fine Tuned VGG19 Model - Google Drive Link](https://drive.google.com/open?id=1-2SXo3Tkhm2eQa67vkuNuM_RjxjAJUoU)
 
 
 AI for Mankind launched a Let’s Stop Wildfires Hackathon with the goal to come up with ideas to help solve California wildfires crisis. 
