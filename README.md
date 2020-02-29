@@ -4,6 +4,11 @@
 
 ## Challenge IB: Smoke vs No Smoke using Gridded Image
 
+#### Team Members
+* Ash Ranu
+* Zach Steindam
+* Jeneia Mullins
+
 [Custom Model - Google Drive Link](https://drive.google.com/open?id=1-COjDlKTBAHw7VMqJrt4-D8cdMjo3jyt)
 
 [Fine Tuned VGG19 Model - Google Drive Link](https://drive.google.com/open?id=1-2SXo3Tkhm2eQa67vkuNuM_RjxjAJUoU)
